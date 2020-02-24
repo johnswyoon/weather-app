@@ -1,4 +1,4 @@
-<strong>Simple weather app created from online React tutorial<strong>
+<em><strong>Simple weather app created from online React tutorial<strong><em>
 
 ##
 
