@@ -1,5 +1,4 @@
-<em><strong>Simple weather app created from online React tutorial<strong><em>
-
+Simple weather app created from online React tutorial
 ##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
