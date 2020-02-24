@@ -1,4 +1,4 @@
-Simple weather app created from online React tutorial
+<strong>Simple weather app created from online React tutorial<strong>
 
 ##
 
